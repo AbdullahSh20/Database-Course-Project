@@ -1,4 +1,7 @@
 # BLG317E-Project
+## Introduction
+
+This is our group project for BLG317E class. In the project, we are supposed to use a dataset and create a website from it. The website is supposed to have CRUD functionality, and extra features can be added if we want. The data that we used was from this [repo](https://github.com/jfjelstul/worldcup). For the frontend, we used JavaScript and the React library, which was optional. As for the backend, we used Python and Flask, which was mandatory for the course.
 
 ## Setup
 
@@ -22,3 +25,14 @@ Then to start the servers and see the page run the following make instruction:
 ```
 make start-servers
 ```
+
+## Main Features
+
+The main features of the project include:
+
+- Live showcasing of CRUD operations on various tables through updating the frontend and the backend.
+- Sorting and filtering capabilities.
+- Implementation of scroll pagination.
+- Implementation of a Smart search bar.
+- Validation of inputs.
+- Statistical calculations.
